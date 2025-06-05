@@ -1,0 +1,3 @@
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/01_PPM Image Output/Starter/cmake-build-debug/CMakeFiles/01_PPM_Image_Output.dir
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/01_PPM Image Output/Starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/01_PPM Image Output/Starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

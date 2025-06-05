@@ -1,0 +1,15 @@
+# ninja log v6
+101	2436	7577823501267336	CMakeFiles/05_Christmas.dir/YourRayTracer.cpp.obj	9839bcbd261cd4ed
+2	311	7581748826455461	build.ninja	37ee4cd73d7b04a3
+49	2053	7577823500655234	CMakeFiles/05_Christmas.dir/Vector3.cpp.obj	955146e22d6892a3
+82	2030	7577823500975261	CMakeFiles/05_Christmas.dir/Intersection.cpp.obj	c19884584e2aab88
+66	2005	7577823500815261	CMakeFiles/05_Christmas.dir/Ray.cpp.obj	691674e73c87b8c7
+57	1913	7577823500735264	CMakeFiles/05_Christmas.dir/Sphere.cpp.obj	73ffc0a79af56761
+89	2158	7577823501055253	CMakeFiles/05_Christmas.dir/Camera.cpp.obj	9a1f2286ef9a76e7
+151	2203	7577823501676758	CMakeFiles/05_Christmas.dir/Material.cpp.obj	98615fe7723a56fb
+143	2306	7577823501584428	CMakeFiles/05_Christmas.dir/Scene.cpp.obj	5fddda033fe34d8f
+135	2311	7577823501504950	CMakeFiles/05_Christmas.dir/Screen.cpp.obj	e678d832230118a6
+73	2715	7577823500895251	CMakeFiles/05_Christmas.dir/lodepng.cpp.obj	d8a0cc59422dffff
+68	1303	7578149748136305	CMakeFiles/05_Christmas.dir/main.cpp.obj	5687df7d2bd627a1
+1304	1797	7578149760492274	05_Christmas.exe	6e269e0018add6e5
+159	1928	7577823501756766	CMakeFiles/05_Christmas.dir/rectangle.cpp.obj	3f6918812dc5c1b9

@@ -1,0 +1,3 @@
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/05_Christmas 3d/Starter/cmake-build-debug/CMakeFiles/05_Christmas.dir
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/05_Christmas 3d/Starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/05_Christmas 3d/Starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\03_HitSphere.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\ar.exe qc CMakeFiles\03_HitSphere.dir/objects.a @CMakeFiles\03_HitSphere.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\03_HitSphere.dir/objects.a -Wl,--no-whole-archive -o 03_HitSphere.exe -Wl,--out-implib,lib03_HitSphere.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\03_HitSphere.dir\linkLibs.rsp

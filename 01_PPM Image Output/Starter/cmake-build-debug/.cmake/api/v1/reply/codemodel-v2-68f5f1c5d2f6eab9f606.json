@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_PPM_Image_Output",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_PPM_Image_Output::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_PPM_Image_Output-Debug-7387c5772383453b4ad0.json",
+					"name" : "01_PPM_Image_Output",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/01_PPM Image Output/Starter/cmake-build-debug",
+		"source" : "C:/Me Me/OOP/objektorientierte-programmierung-cpp/Praktikum/01_PPM Image Output/Starter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
